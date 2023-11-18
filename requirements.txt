@@ -1,0 +1,16 @@
+instagrapi
+Pillow
+selenium
+webdriver-manager
+spacy
+pandas
+python-dotenv
+langchain
+gpt4all
+pytesseract
+opencv-python
+tabulate
+transformers
+tqdm
+datasets
+torch

@@ -1,0 +1,8 @@
+posts/
+data/
+
+mistral-7b-instruct-v0.1.Q4_0.GGUF
+
+.venv
+
+.DS_Store
